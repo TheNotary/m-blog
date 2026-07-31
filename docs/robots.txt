@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /p/
+
+# Allow everything else
+Allow: /
+
+Sitemap: /sitemap.xml
