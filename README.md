@@ -35,4 +35,4 @@ mkdocs build                                       # outputs to site/
 
 Pushes to `main` build the site and deploy it to GitHub Pages:
 
-<https://thenotary.github.com/m-blog>
+<https://thenotary.github.io/m-blog>
