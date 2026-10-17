@@ -31,6 +31,8 @@ python scripts/new_post.py --title "Secret Note" --unlisted
 
 ```bash
 mkdocs build                                       # outputs to site/
-aws s3 sync site/ s3://YOUR-BUCKET --delete        # deploy to S3
 ```
 
+Pushes to `main` build the site and deploy it to GitHub Pages:
+
+<https://thenotary.github.com/m-blog>
