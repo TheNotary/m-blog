@@ -6,7 +6,7 @@ draft: false
 
 # Vibe Coding is Dead; Long Live Vibe Coding
 
-I think this every time I hit a bug in someone else's software. I just
+I think this every time I hit a bug in someone else's software. I just...
 <!-- more -->
 
 open a new session, disclose my observations to a cheap model in Ask mode, and the exact nature of the problem is disclosed to me.  This happens a lot more now, you've probably noticed too.  It's all the vibe coding.  But the answer is simple, just hose more tokens at the model vendors and be on your way.  
