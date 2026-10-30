@@ -1,12 +1,12 @@
 ---
 date: 2026-10-29
 slug: has-ai-solved-regressions
-draft: true
+draft: false
 ---
 
-# Has AI Solved Regressions
+# AI Has Solved Software Regressions
 
-It is impossible for commercially maintained, vibe-coded slop to have regressions because such products lack the stablity required by the label `regression`
+It is impossible for commercially maintained, vibe-coded slop to have regressions because such products lack the baseline level of stablity required by the label `regression`.
 
 <!-- more -->
 
