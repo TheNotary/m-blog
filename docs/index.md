@@ -11,3 +11,4 @@ Micro-thoughts and longer articles.  An AI summarized my writing with this:
 ## Latest writing
 
 
+

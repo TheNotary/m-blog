@@ -4,6 +4,7 @@ site_description: Micro-thoughts and longer articles.
 
 theme:
   name: material
+  custom_dir: overrides
   features:
     - navigation.indexes
 
