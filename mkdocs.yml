@@ -10,10 +10,11 @@ theme:
 plugins:
   - search
   - blog:
-      blog_dir: blog
-      post_url_format: "{date}/{slug}"
+      blog_dir: "."
+      post_dir: "blog/posts"
+      post_url_format: "blog/{date}/{slug}"
       post_excerpt: optional
-      archive: true
+      archive: false
       categories: false
       authors: false
   - rss:
@@ -32,5 +33,4 @@ hooks:
   - hooks/unlisted.py
 
 nav:
-  - Blog:
-      - blog/index.md
+  - Writing: index.md
