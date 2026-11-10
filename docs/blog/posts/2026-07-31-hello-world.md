@@ -7,7 +7,7 @@ slug: hello-world
 
 I don't have the stomach to run this experiment for $100 worth of trials, I'm fine just catching it once in the wild. I'm sure there are cases where medium reasoning, or even maxed out reasoning results in better outputs (especially in benchmark settings, obviously) but this is a case that shows the opposite.
 
-I wanted to microblog somewhere that I finally have a session where gpt-5.6-sol did better in VS Code (local) with None thinking.  The session is NWU1MzM0Y2ItMTIyMy00NmU5LWJjOWItY2NkMmJmMGFmOTA5
+I wanted to micro-blog somewhere that I finally have a session where gpt-5.6-sol did better in VS Code (local) with None thinking.  The session is NWU1MzM0Y2ItMTIyMy00NmU5LWJjOWItY2NkMmJmMGFmOTA5
 
 Prompt:
 
