@@ -10,6 +10,10 @@ pip install -r requirements.txt
 mkdocs serve        # local preview at http://127.0.0.1:8000
 ```
 
+## Spelling Check
+
+Every push runs `npm run spellcheck` against Markdown files.  Use the `streetsidesoftware.code-spell-checker` extension to either fix or add spelling overrides.
+
 ## Creating Posts
 
 ```bash

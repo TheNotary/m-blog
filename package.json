@@ -1,0 +1,16 @@
+{
+  "name": "m-blog",
+  "private": true,
+  "scripts": {
+    "prepare": "husky",
+    "spellcheck": "cspell --config scripts/spellcheck-config.mjs --gitignore --dot --no-progress \"**/*.{md,markdown,mdx}\""
+  },
+  "engines": {
+    "node": ">=22.18.0"
+  },
+  "devDependencies": {
+    "cspell": "10.4.1",
+    "husky": "9.1.7",
+    "jsonc-parser": "3.3.1"
+  }
+}
